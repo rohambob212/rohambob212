@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on MyScript
 - 📫 How to reach me : you can't (for now)
 - 🎮 currently working on Don't Stop
+- 🕹️ making custom minecraft plugins
 - ⚡ Fun fact: Godot Game engine is made in Godot Game engine
 
 <!---
