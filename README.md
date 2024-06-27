@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java 🍵
 - 💞️ I’m looking to collaborate on MyScript
 - 📫 How to reach me : you can't (for now)
-- 😄 Pronouns: ...
+- 🎮 currently working on Don't Stop
 - ⚡ Fun fact: Godot Game engine is made in Godot Game engine
 
 <!---
